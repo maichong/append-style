@@ -1,0 +1,32 @@
+{
+  "name": "append-style",
+  "version": "0.1.0",
+  "description": "Dynamic append css to document head by js",
+  "keywords": [
+    "js2css",
+    "dynamic-css",
+    "append-css",
+    "j2c",
+    "livecss",
+    "lazycss"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/append-style.git"
+  },
+  "author": {
+    "email": "liang@maichong.it",
+    "name": "liang",
+    "url": "https://github.com/liangxingchen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/append-style/issues"
+  },
+  "homepage": "https://github.com/maichong/append-style#readme"
+}
